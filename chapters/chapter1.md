@@ -1,5 +1,5 @@
 ## Les basiques
-
+Dans ce chapitre sont présentés les commandes usuels de git
 ## les récupérations
 
 git clone \url\>
