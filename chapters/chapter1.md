@@ -2,7 +2,7 @@
 Dans ce chapitre sont présentés les commandes usuels de git
 ## les récupérations
 
-git clone \url\>
+git clone <\url\>
 
 ## les commandes de mise à jour
 
@@ -14,3 +14,4 @@ git clone \url\>
 
 1.`git mv`
 2.`git rm`
+3.`git status`
